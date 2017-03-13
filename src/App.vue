@@ -22,9 +22,7 @@ export default {
               this.todos=response.data;
         })
     },
-    components:{
-      Todos,TodoForm
-    },
+
 }
 </script>
 
